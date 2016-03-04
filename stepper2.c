@@ -39,6 +39,9 @@ SysLoad(8000000);
 	GPIO_PORTB_DATA_R = (0x09); 
 SysLoad(8000000); 
 		}
+
+SysLoad(80000000);
+
 for(i=0;i<50;i++)
 		{
 GPIO_PORTB_DATA_R = (0x09); 
