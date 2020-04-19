@@ -1,1 +1,1 @@
-# sarang-maurya
+# Sarang-Maurya
